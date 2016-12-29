@@ -169,10 +169,10 @@ div#content ul {
 }
 
 #navtable {
-  background: #FFF url(/images/dotted_hor.gif) repeat-x top;
+  /*background: #FFF url(/images/dotted_hor.gif) repeat-x top;*/
 }
 #navtable #btm {
-  background: #FFF url(/images/dotted_hor.gif) repeat-x top;
+  /*background: #FFF url(/images/dotted_hor.gif) repeat-x top;*/
   height: 2px;
   font-size: 2px;
   margin:0;
@@ -256,7 +256,7 @@ li.current_inv{
   padding: 4px 5px 6px 5px;
 }
 
-.shadow_left{
+/*.shadow_left{
   background: url(/images/shadow/left.gif) left repeat-y;
 }
 
@@ -286,7 +286,7 @@ li.current_inv{
 
 .shadow_bottomright{
   background: url(/images/shadow/bottomright.gif) bottom right no-repeat;
-}
+}*/
 .resv_listing {
   width: 100%;
 }
