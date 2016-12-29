@@ -1,7 +1,7 @@
 var LRL = {
   Version: '2.0',
   preload: function(libraryName) {
-    document.write('<script type="text/javascript" src="/scripts/'+libraryName+'.js"></script>');
+    document.write('<script type="text/javascript" src="scripts/'+libraryName+'.js"></script>');
   },
   preload_img: function(img_src) {
     var i=new Image();i.src = img_src;
